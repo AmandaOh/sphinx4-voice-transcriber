@@ -1,0 +1,15 @@
+*.iml
+.DS_Store
+.gradle
+.idea/**
+
+*.wav
+!intro.wav
+
+*.mp3
+
+data/*
+!data/en-us-adapt
+
+setup.sh
+build/*
